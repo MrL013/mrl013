@@ -1,7 +1,5 @@
 Links:
 
-  видео посадки на платформу: 
-                https://youtu.be/EeMj0LKDGAQ
 
   telegram: https://t.me/nt_workl
   
