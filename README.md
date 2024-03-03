@@ -1,9 +1,9 @@
-#Links:
+# Links:
 
 
-  ##email: lev.rock@yandex.ru
+  ## email: lev.rock@yandex.ru
   
-  ##VK: https://vk.com/0lv01_1
+  ## VK: https://vk.com/0lv01_1
   
-  ##instagram: @lsin_v
+  ## instagram: @lsin_v
   
