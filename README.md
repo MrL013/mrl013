@@ -7,3 +7,4 @@
   
   ## instagram: @lsin_v
   
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrL013&layout=compact&theme=dracula" alt="Most used languages">
