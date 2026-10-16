@@ -8,9 +8,6 @@
 ## 📈 Contribution Activity
 
 <div align="center">
-  <img width="55%"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=MrL013&theme=tokyo-night&hide_border=true" />
-
   <img width="60%"
     src="https://streak-stats.demolab.com?user=MrL013&theme=tokyonight&hide_border=true" />
 </div>
